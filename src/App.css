@@ -99,7 +99,7 @@ body {
   .thought:after {
     width: 20px;
     height: 20px;
-    right: 5px;
+    right: 35px;
     bottom: -40px;
   }
 }
