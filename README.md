@@ -1,5 +1,3 @@
-https://i.imgur.com/K2PQhS6.jpg
-
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links-->
 <!-- search and replace  github_repro & netlify  -->
 
@@ -12,19 +10,19 @@ https://i.imgur.com/K2PQhS6.jpg
 
 <!-- PROJECT LOGO -->
 
-  <h3 align="center">TITLE</h3>
+  <h3 align="center">CLOCK</h3>
 
 <br />
 <p align="center">
-  <a href="netlify">
-    <img src="https://i.imgur.com/K2PQhS6.jpg" alt="Logo" width="300" height="160">
+  <a href="https://annequinkenstein.github.io/clock/">
+    <img src="https://i.imgur.com/K2PQhS6.jpg" alt="Logo" width="600" height="300">
   </a>
 
   <p align="center">
     Simple Clock with two Intervall Functions and React Hooks. 
     <br />
     <br />
-    <a href="netlify">Demo</a>
+    <a href="https://annequinkenstein.github.io/clock/">Demo</a>
     ·
     <a href="https://github.com/AnneQuinkenstein/clock/issues">Report Bug</a>
   </p>
