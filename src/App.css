@@ -1,5 +1,5 @@
 body {
-  background-image: url("./pexels-caio-56733.jpg");
+  background-image: url("./hase.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -13,9 +13,9 @@ body {
 
 .clock {
   position: absolute;
-  right: 15%;
-  top: 50%;
-  transform: translate(15%, 50%);
+  right: 25%;
+  bottom: 5%;
+  /* transform: translate(15%, 50%); */
 }
 
 .bubble {
@@ -28,6 +28,7 @@ body {
   font-family: sans-serif;
   padding: 20px;
   font-size: large;
+  background-color: whitesmoke; 
 }
 
 .thought {
@@ -42,6 +43,7 @@ body {
   position: absolute;
   width: 0;
   height: 0;
+  background-color: whitesmoke; 
 }
 
 .thought:before,
@@ -73,7 +75,7 @@ body {
 @media (max-width: 700px) {
   .clock {
     right: 15%;
-    top: 60%;
+    top: 75%;
     transform: translate(15%, 50%);
   }
 
