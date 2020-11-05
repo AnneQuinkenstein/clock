@@ -20,6 +20,7 @@
 
   <p align="center">
     Simple Clock with two Intervall Functions and React Hooks. 
+    Send me a picture of your pet & i will read it's thoughts!  
     <br />
     <br />
     <a href="https://annequinkenstein.github.io/clock/">Demo</a>
