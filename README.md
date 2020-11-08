@@ -20,7 +20,7 @@
 
   <p align="center">
     Simple Clock with two Intervall Functions and React Hooks. 
-    Send me a picture of your pet & i will read it's thoughts!  
+    If you send me a picture of your pet, i can sent it into timetravel as well. 
     <br />
     <br />
     <a href="https://aquin-clock.netlify.app">Demo</a>
