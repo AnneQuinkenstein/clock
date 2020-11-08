@@ -10,7 +10,7 @@
 
 <!-- PROJECT LOGO -->
 
-  <h3 align="center">CLOCK</h3>
+  <h3 align="center">TIME TRAVEL FOR YOUR PET</h3>
 
 <br />
 <p align="center">
