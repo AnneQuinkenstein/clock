@@ -14,7 +14,7 @@
 
 <br />
 <p align="center">
-  <a href="https://annequinkenstein.github.io/clock/">
+  <a href="https://aquin-clock.netlify.app">
     <img src="https://i.imgur.com/K2PQhS6.jpg" alt="Logo" width="600" height="300">
   </a>
 
@@ -23,7 +23,7 @@
     Send me a picture of your pet & i will read it's thoughts!  
     <br />
     <br />
-    <a href="https://annequinkenstein.github.io/clock/">Demo</a>
+    <a href="https://aquin-clock.netlify.app">Demo</a>
     ·
     <a href="https://github.com/AnneQuinkenstein/clock/issues">Report Bug</a>
   </p>
